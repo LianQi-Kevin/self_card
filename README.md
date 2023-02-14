@@ -1,6 +1,12 @@
-## 「青训营 X 码上掘金」主题创作活动 -
+## 「青训营 X 码上掘金」主题创作活动
 
 该项目为参加字节跳动青训营 "「青训营 X 码上掘金」主题创作活动" 的内容库，项目为"主题 1：我的名片"
+
+![image-20230215021038925](https://cdn.jsdelivr.net/gh/LianQi-Kevin/Markdown_Image_Hosting@main/images/202302150210016.png)
+
+
+* [「青训营 X 码上掘金」主题创作活动 | 主题 1：我的名片](https://juejin.cn/post/7200033099751751737)
+* [码上掘金-在线体验](https://code.juejin.cn/pen/7200037235532496896)
 
 ---
 
